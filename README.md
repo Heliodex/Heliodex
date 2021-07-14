@@ -10,12 +10,14 @@ i code things
 
 contact me here, at https://heliodex.cf/, or at 
  
-* twitter: @lwinklly, https://twitter.com/lwinklly/
+* Twitter: @lwinklly, https://twitter.com/lwinklly/
 
-* reddit: u/heliodex, https://www.reddit.com/user/heliodex/
+* Reddit: u/Heliodex, https://www.reddit.com/user/heliodex/
 
-* devforum: lewin4, https://devforum.roblox.com/u/lewin4/summary/
+* Developer Forum: Lewin4, https://devforum.roblox.com/u/lewin4/summary/
 
-* roblox: lewin4, https://www.roblox.com/users/77663253/profile/
+* Roblox: Lewin4, https://www.roblox.com/users/77663253/profile/
 
-* youtube: heliodex, https://www.youtube.com/channel/UC8E2hw963cW5IJXZnBE6_vg/
+* Youtube: Heliodex, https://www.youtube.com/channel/UC8E2hw963cW5IJXZnBE6_vg/
+
+* Discord: Heliodex#3590
