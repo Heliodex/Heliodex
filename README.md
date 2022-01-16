@@ -22,3 +22,7 @@ contact me here, at https://heliodex.cf/, or at
 * Youtube: Heliodex, https://www.youtube.com/channel/UC8E2hw963cW5IJXZnBE6_vg/
 
 * Discord: Heliodex#3590
+
+* Telegram: @Heliodex
+
+* Email: Heli@odex.cf
