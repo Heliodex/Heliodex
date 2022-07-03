@@ -5,11 +5,9 @@
 **HelioDex/Heliodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-i'm a human 
+I write code and usually put it out under the Unlicense.
 
-i code things
-
-contact me here, at https://heliodex.cf/, or at 
+Contact me here, at https://heliodex.cf/, or at 
  
 * Twitter: @lwinklly, https://twitter.com/lwinklly/
 
