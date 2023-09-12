@@ -1,6 +1,9 @@
 ## Heliodex
+
 ### /'hiliəʊdɛks/
+
 ---
+
 <!--
 **Heliodex/Heliodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 k
@@ -12,12 +15,14 @@ Contact me here, at https://heliodex.cf/, or at
  
 ||||
 -|-|-
-Twitter | @lwinklly | https://twitter.com/lwinklly/
-Youtube | @lwinklly | https://youtube.com/@lwinklly/
-Reddit | u/Heliodex | https://reddit.com/user/heliodex/
-Developer Forum | Lewin4 | https://devforum.roblox.com/u/Lewin4/summary/
-Roblox | Lewin4 | https://roblox.com/users/77663253/profile/
-StackOverflow | Heliodex | https://stackoverflow.com/users/12576382/
-Discord | @Heliodex | https://discord.com/users/290622468547411968/
-Telegram | @Heliodex | https://t.me/heliodex/
-Email | Heli@odex.cf | Heli@odex.cf
+Twitter | @lwinklly | [twitter.com/lwinklly](https://twitter.com/lwinklly/)
+Youtube | @lwinklly | [youtube.com/@lwinklly](https://youtube.com/@lwinklly/)
+Reddit | u/Heliodex | [reddit.com/u/Heliodex](https://reddit.com/user/heliodex/)
+Developer Forum | Lewin4 | [devforum.roblox.com/u/lewin4](https://devforum.roblox.com/u/Lewin4/summary/)
+Roblox | Lewin4 | [roblox.com/users/77663253/profile](https://roblox.com/users/77663253/profile/)
+StackOverflow | Heliodex | [stackoverflow.com/users/12576382](https://stackoverflow.com/users/12576382/)
+Guilded | u/Heliodex | [guilded.gg/u/Heliodex](https://guilded.gg/u/Heliodex/)
+Discord | @Heliodex | [discord.com/users/290622468547411968](https://discord.com/users/290622468547411968/)
+Telegram | @Heliodex | [t.me/heliodex](https://t.me/heliodex/)
+Nostr | Heliodex.cf | [npub1lllllll9xdgqvp5l3drml7kwrre9u5ma6je7ey8r0578dfqq8l8qrjujua](https://heliodex.cf/.well-known/nostr.json)
+Email | Heli@odex.cf | [heli@odex.cf](mailto:heli@odex.cf)
