@@ -9,8 +9,6 @@
 k
 -->
 
-I write code and usually put it out under the Unlicense.
-
 Contact me here, at https://heliodex.cf/, or at
  
 ||||
@@ -26,3 +24,11 @@ Discord | @Heliodex | [discord.com/users/290622468547411968](https://discord.com
 Telegram | @Heliodex | [t.me/heliodex](https://t.me/heliodex/)
 Nostr | Heliodex.cf | [npub1lllllll9xdgqvp5l3drml7kwrre9u5ma6je7ey8r0578dfqq8l8qrjujua](https://heliodex.cf/.well-known/nostr.json)
 Email | Heli@odex.cf | [heli@odex.cf](mailto:heli@odex.cf)
+
+Everything i make is public domain, instead of a classical licence, here's a Blessing heavily inspired by the [SQLite Blessing](https://www.sqlite.org/different.html):
+
+> *May you do evil and mischievous and diabolical acts*
+> *May you copy, take, use, improve on, pirate, and plagiarise ALL THE THINGS*
+> *May you never apologise*
+> *Life is shit, try make it less shit for others*
+> *Ⓐ*
