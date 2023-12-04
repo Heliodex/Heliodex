@@ -27,8 +27,8 @@ Email | Heli@odex.cf | [heli@odex.cf](mailto:heli@odex.cf)
 
 Everything i make is public domain, instead of a classical licence, here's a Blessing heavily inspired by the [SQLite Blessing](https://www.sqlite.org/different.html):
 
-> *May you do evil and mischievous and diabolical acts*
-> *May you copy, take, use, improve on, pirate, and plagiarise ALL THE THINGS*
-> *May you never apologise*
-> *Life is shit, try make it less shit for others*
-> *Ⓐ*
+> *May you do evil and mischievous and diabolical acts*  
+> *May you copy, take, use, improve on, pirate, and plagiarise ALL THE THINGS*  
+> *May you never apologise*  
+> *Life is shit, try make it less shit for others*  
+> *Ⓐ*  
