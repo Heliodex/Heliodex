@@ -13,7 +13,6 @@ Contact me here, at https://heliodex.cf/, or at
  
 ||||
 -|-|-
-X formerly Twitter | @lwinklly | [twitter.com/lwinklly](https://twitter.com/lwinklly/)
 Youtube | @lwinklly | [youtube.com/@lwinklly](https://youtube.com/@lwinklly/)
 Reddit | u/Heliodex | [reddit.com/u/Heliodex](https://reddit.com/user/heliodex/)
 Developer Forum | Lewin4 | [devforum.roblox.com/u/lewin4](https://devforum.roblox.com/u/Lewin4/summary/)
