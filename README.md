@@ -2,6 +2,8 @@
 
 ### /'hiliəʊdɛks/
 
+![Heliodex logo and projects banner](./banner.webp)
+
 ---
 
 <!--
@@ -9,21 +11,21 @@
 k
 -->
 
-Contact me here, at https://heliodex.cf/, or at
+Contact me here, at https://heliodex.cf, or at
  
 ||||
 -|-|-
-Youtube | @lwinklly | [youtube.com/@lwinklly](https://youtube.com/@lwinklly/)
-Reddit | u/Heliodex | [reddit.com/u/Heliodex](https://reddit.com/user/heliodex/)
+Youtube | @lwinklly | [youtube.com/@lwinklly](https://youtube.com/@lwinklly)
+Reddit | u/Heliodex | [reddit.com/u/Heliodex](https://www.reddit.com/user/HelioDex/)
 Developer Forum | Lewin4 | [devforum.roblox.com/u/lewin4](https://devforum.roblox.com/u/Lewin4/summary/)
-Roblox | Lewin4 | [roblox.com/users/77663253/profile](https://roblox.com/users/77663253/profile/)
-StackOverflow | Heliodex | [stackoverflow.com/users/12576382](https://stackoverflow.com/users/12576382/)
+Roblox | Lewin4 | [roblox.com/users/77663253/profile](https://web.roblox.com/users/77663253/profile/)
+StackOverflow | Heliodex | [stackoverflow.com/users/12576382](https://stackoverflow.com/users/12576382/heliodex)
 Urbit | ~rinmex-ritlys | [rinmex-ritlys.heliodex.cf](https://rinmex-ritlys.heliodex.cf/~/login)
-Guilded | u/Heliodex | [guilded.gg/u/Heliodex](https://guilded.gg/u/Heliodex/)
+Guilded | u/Heliodex | [guilded.gg/u/Heliodex](https://www.guilded.gg/u/Heliodex/)
 Nostr | Heliodex.cf | [npub1lllllll9xdgqvp5l3drml7kwrre9u5ma6je7ey8r0578dfqq8l8qrjujua](https://heliodex.cf/.well-known/nostr.json)
 Email | Heli@odex.cf | [heli@odex.cf](mailto:heli@odex.cf)
 
-Everything i make is public domain, instead of a classical licence, here's a Blessing heavily inspired by the [SQLite Blessing](https://www.sqlite.org/different.html):
+Everything i make is public domain, instead of a classical licence, here's a Blessing heavily inspired by the [SQLite Blessing](https://www.sqlite.org/different.html#mtimelink):
 
 > *May you do evil and mischievous and diabolical acts*  
 > *May you copy, take, use, improve on, pirate, and plagiarise ALL THE THINGS*  
