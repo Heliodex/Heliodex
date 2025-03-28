@@ -1,8 +1,8 @@
+# ![Heliodex logo and projects banner](./banner.webp)
+
 ## Heliodex
 
 ### /'hiliəʊdɛks/
-
-![Heliodex logo and projects banner](./banner.webp)
 
 ---
 
